@@ -10,4 +10,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 
-https://github.com/LaunchCodeEducation/expense_tracker
+https://github.com/lewisalvin/hair-we-go
+
+https://github.com/lewisalvin/hair-we-go-java
